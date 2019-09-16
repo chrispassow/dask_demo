@@ -10,5 +10,5 @@ source /etc/profile.d/modules.sh
 
 /bin/hostname
 
-python3 /home/cpassow/demos/dask_demo/slurm_via_commandline/array_numpy_vs_dask.py
+python3 /home/cpassow/demos/dask_demo/slurm_via_commandline/array_numpy_vs_dask.py 50000 50000
 
